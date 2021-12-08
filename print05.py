@@ -1,1 +1,1 @@
-print('  A  ', ' B B ', 'C C C', sep='\n')
+print('  A  ', ' B B ', '', sep='\n', end = 'C C C')
